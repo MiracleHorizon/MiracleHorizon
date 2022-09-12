@@ -21,7 +21,7 @@
 -   NextJS.
 -   Адаптивная, кроссбраузерная вёрстка.
 
-### Connect with me:
+### Связаться со мной:
 
 <br/>
 
@@ -30,3 +30,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+-   alexeenkodenis.jobs@gmail.com
