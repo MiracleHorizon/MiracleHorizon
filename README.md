@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1>Алексеенко Денис, Junior FrontEnd Developer</h1>
 
 <div id="badges">
-  <a href="your-twitter-URL">
+  <a href="t.me/MiracleHorizon">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
