@@ -1,4 +1,4 @@
-### Алексеенко Денис, Junior FrontEnd Developer
+## Алексеенко Денис, Junior FrontEnd Developer
 
 <div id="badges">
   <a href="t.me/MiracleHorizon">
