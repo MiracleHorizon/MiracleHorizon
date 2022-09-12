@@ -18,10 +18,12 @@
 -   axios.
 -   Figma
 
-#### В Данный момент изучаю:
+### В Данный момент изучаю:
 
 -   NextJS.
 -   Адаптивная, кроссбраузерная вёрстка.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiracleHorizon)](https://github.com/MiracleHorizon/github-readme-stats)
 
 ### Связаться со мной:
 
