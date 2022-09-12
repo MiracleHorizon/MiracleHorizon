@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2>Алексеенко Денис, Junior FrontEnd Developer</h2>
 
 <div id="badges">
