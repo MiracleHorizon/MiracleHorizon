@@ -1,4 +1,8 @@
-## Алексеенко Денис, Junior FrontEnd Developer
+### Алексеенко Денис, Junior FrontEnd Developer
+
+#### Основные навыки:
+- JavaScript ES6+.
+- TypeScript
 
 <div id="badges">
   <a href="t.me/MiracleHorizon">
