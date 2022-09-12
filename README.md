@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Алексеенко Денис, Junior FrontEnd Developer</h1>
+<h2>Алексеенко Денис, Junior FrontEnd Developer</h2>
 
 <div id="badges">
   <a href="t.me/MiracleHorizon">
