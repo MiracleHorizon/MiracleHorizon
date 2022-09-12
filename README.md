@@ -1,4 +1,4 @@
-## Hello! I`m Denis, Junior FrontEnd Developer
+## Привет! Я Денис и я Junior FrontEnd Developer
 
 ### Основные навыки:
 
