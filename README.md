@@ -23,7 +23,7 @@
 -   NextJS.
 -   Адаптивная, кроссбраузерная вёрстка.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon)](https://github.com/MiracleHorizon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon&layout=compact)](https://github.com/MiracleHorizon/github-readme-stats)
 
 ### Связаться со мной:
 
