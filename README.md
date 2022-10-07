@@ -30,7 +30,7 @@
 
 ### В данный момент изучаю:
 
--   NextJS, Bootstrap 5, Antd, MobX, PostgreSQL
+-   NextJS, Antd, MobX
 -   Адаптивная, кроссбраузерная вёрстка.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon&layout=compact)](https://github.com/MiracleHorizon/github-readme-stats)
