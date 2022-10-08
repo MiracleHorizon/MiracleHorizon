@@ -30,7 +30,7 @@
 
 ### В данный момент изучаю:
 
--   NextJS, Antd, MobX
+-   NextJS, Antd, MobX, Vue 3 (+ базовый роутинг и стейтменеджер), Tailwind
 -   Адаптивная, кроссбраузерная вёрстка.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon&layout=compact)](https://github.com/MiracleHorizon/github-readme-stats)
