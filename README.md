@@ -22,8 +22,8 @@
 ### Дополнительные навыки:
 
 -   React Router V6, React Hook Form, react-query, axios
--   NestJS, Express.
--   MongoDb.
+-   NestJS, Express, Prisma
+-   MongoDb, PostgreSQL
 -   Webpack, Vite
 -   Figma
 
