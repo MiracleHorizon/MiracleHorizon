@@ -27,4 +27,4 @@
 -   Webpack, Vite
 -   Figma
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon&layout=compact)](https://github.com/MiracleHorizon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon&layout=compact&theme=transparent)](https://github.com/MiracleHorizon/github-readme-stats)
