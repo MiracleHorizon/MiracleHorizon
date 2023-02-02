@@ -1,4 +1,4 @@
-## Привет! Меня зовут Денис и я Junior FrontEnd Developer
+## Привет! Меня зовут Денис и я FrontEnd Developer
 
 ### Связаться со мной:
 
