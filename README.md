@@ -12,12 +12,12 @@
 
 ### Основные навыки:
 
--   <img align="center" width="20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Img" /> JavaScript ES6+.
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Img" /> TypeScript.
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="main" /> React, Next.js.
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="stores" /> Redux (RTK, RTK Query), MobX.
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="styles" /> SCSS, CSS Modules, styled-components, Emotion, TailwindCSS, Ant Design.
--   <img align="center" width="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" /> Git, Github.
+-   <img align="center" width="20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Img" /> JavaScript ES6+
+-   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Img" /> TypeScript
+-   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="main" /> React, Next.js
+-   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="stores" /> Redux (RTK, RTK Query), MobX, Zustand
+-   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="styles" /> SCSS, CSS Modules, styled-components, Emotion, TailwindCSS, Ant Design
+-   <img align="center" width="20px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" /> Git, Github
 
 ### Дополнительные навыки:
 
