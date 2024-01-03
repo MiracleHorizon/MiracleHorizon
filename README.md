@@ -14,15 +14,10 @@
 -   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Img" /> TypeScript
 -   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="main" /> React, Next.js
 -   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="main" /> Vue 3, Nuxt 3
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="stores" /> Redux (RTK), MobX, Zustand, Pinia
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="styles" /> SCSS / CSS-Modules, styled-components / Emotion, TailwindCSS, AntDesign
+-   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="stores" /> Zustand, Redux (RTK), MobX, Pinia
+-   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="styles" /> SCSS / CSS-Modules, styled-components / Emotion, TailwindCSS, Radix UI, MUI
 
-### Additional stack:
-
--   RTK Query, React Query, axios, SWR
--   react-router, vue-router
--   React-hook-form, Formik
--   Nest.js, Express.js
--   PostgreSQL, MongoDB, PrismaORM
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracleHorizon&layout=compact&theme=transparent)](https://github.com/MiracleHorizon/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miraclehorizon&show_icons=true&theme=transparent&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehorizon&layout=compact&langs_count=7&theme=transparent"/>
+</div>
