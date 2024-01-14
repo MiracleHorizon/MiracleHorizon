@@ -1,23 +1,27 @@
-## Hello! I`m Denis
+<h2 style="display: flex; align-items: center;" align="center">
+ :monkey_face: Hey, I am Denis, a Frontend Developer from Moscow
+</h2>
 
 <div>
-  <h3>22 y.o. frontend developer from Moscow</h3>
+  <p>I got seriously interested in programming in 2022 and since then I've been actively learning new things and exploring different cool things </p>
 </div>
 
-### Contact with me:
--   alexeenkodenis.jobs@gmail.com
--   https://t.me/MiracleHorizon
+<div align="center">
+  <h2>:computer: My Tech Stack:</h2>
 
-### Technology stack:
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,emotion,vite,webpack,docker)](https://skillicons.dev)
+</div>
 
--   <img align="center" width="20px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Img" /> JavaScript ES6+
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Img" /> TypeScript
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="main" /> React, Next.js
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="main" /> Vue 3, Nuxt 3
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="stores" /> Zustand, Redux (RTK), MobX, Pinia
--   <img align="center" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="styles" /> SCSS / CSS-Modules, styled-components / Emotion, TailwindCSS, Radix UI, MUI
+<div align="center">
+  <h2>:envelope: Contact With Me:</h2>
+  alexeenkodenis.jobs@gmail.com; 
+  :moneybag: https://t.me/MiracleHorizon
+</div>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miraclehorizon&show_icons=true&theme=transparent&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehorizon&layout=compact&langs_count=7&theme=transparent"/>
+<div align="center">
+  <h2>:muscle: GitHub Statistics:</h2>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miraclehorizon&show_icons=true&theme=transparent&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclehorizon&layout=compact&langs_count=7&theme=transparent"/>
+  </div>
 </div>
