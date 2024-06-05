@@ -9,7 +9,7 @@
 <div align="center">
   <h2>:computer: My Tech Stack:</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt,scss,emotion,vite,webpack,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,scss,emotion,cypress,vitest,jest,vite,webpack,docker)](https://skillicons.dev)
 </div>
 
 <div align="center">
