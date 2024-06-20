@@ -1,9 +1,12 @@
 <h2 style="display: flex; align-items: center;" align="center">
- :monkey_face: Hey, I am Denis, a Frontend Developer from Moscow
+  :wave: Hey, I am Denis, a :monkey_face: Frontend Developer from Moscow
 </h2>
 
 <div>
-  <p>I got seriously interested in programming in 2022 and since then I've been actively learning new things and exploring different cool things </p>
+  I got seriously interested in programming a few years ago and have been actively learning new things and exploring different cool stuff ever since.
+  <br/>
+  <br/>
+  Now I really enjoy creating user-friendly and modern interfaces, looking for new technologies that will help realize my ideas.
 </div>
 
 <div align="center">
@@ -14,7 +17,7 @@
 
 <div align="center">
   <h2>:envelope: Contact With Me:</h2>
-  alexeenkodenis.jobs@gmail.com; 
+  <a href="mailto:alexeenkodenis.jobs@gmail.com">alexeenkodenis.jobs@gmail.com</a>
   :moneybag: https://t.me/MiracleHorizon
 </div>
 
