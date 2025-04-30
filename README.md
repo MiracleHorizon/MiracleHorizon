@@ -1,5 +1,5 @@
 <h2 style="display: flex; align-items: center;" align="center">
-  👋 Hey, I am Denis, a 🐵 Frontend Developer from Moscow
+  👋 Hey, I am Denis, a 🐵 UI Developer & Software Engineer
 </h2>
 
 <div>
